@@ -46,10 +46,10 @@ The accuracy and loss are plotted over the course of 7 epochs.
 ## Results
 Below are the plots for **Accuracy** and **Loss** over 7 training epochs:
 ### 📈 Accuracy Plot
-![Accuracy](acc.png)
+![Accuracy](./Images/acc.png)
 
 ### 📉 Loss Plot
-![Loss](loss.png)
+![Loss](./Images/loss.png)
 
 ## Note: 
 The project code assumes that the required data files are present in the same directory as the Jupyter Notebook. Please follow the instructions above to acquire and prepare the data accordingly.
